@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "dodgr"]
 	path = dodgr
 	url = https://github.com/urbananalyst/dodgr
-	shallow = true
-	registered = true
 [submodule "gtfsrouter"]
 	path = gtfsrouter
 	url = https://github.com/urbananalyst/gtfsrouter
-	shallow = true
-	registered = true
