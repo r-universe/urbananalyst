@@ -5,6 +5,10 @@
 [submodule "dodgr"]
 	path = dodgr
 	url = https://github.com/UrbanAnalyst/dodgr
+[submodule "geodist"]
+	path = geodist
+	url = https://github.com/hypertidy/geodist
+	registered = false
 [submodule "gtfsrouter"]
 	path = gtfsrouter
 	url = https://github.com/UrbanAnalyst/gtfs-router
