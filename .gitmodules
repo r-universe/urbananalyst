@@ -11,7 +11,7 @@
 	registered = false
 [submodule "gtfsrouter"]
 	path = gtfsrouter
-	url = https://github.com/UrbanAnalyst/gtfs-router
+	url = https://github.com/UrbanAnalyst/gtfsrouter
 [submodule "m4ra"]
 	path = m4ra
 	url = https://github.com/UrbanAnalyst/m4ra
