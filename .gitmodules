@@ -11,9 +11,18 @@
 [submodule "m4ra"]
 	path = m4ra
 	url = https://github.com/UrbanAnalyst/m4ra
+[submodule "neighbourhoods"]
+	path = neighbourhoods
+	url = https://github.com/UrbanAnalyst/neighbourhoods
+[submodule "spatialcluster"]
+	path = spatialcluster
+	url = https://github.com/UrbanAnalyst/spatialcluster
 [submodule "ttcalib"]
 	path = ttcalib
 	url = https://github.com/UrbanAnalyst/ttcalib
 [submodule "uaengine"]
 	path = uaengine
 	url = https://github.com/UrbanAnalyst/uaengine
+[submodule "us-hardship-index"]
+	path = us-hardship-index
+	url = https://github.com/UrbanAnalyst/us-hardship-index
